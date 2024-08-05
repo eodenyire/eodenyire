@@ -166,9 +166,9 @@ Grade: Second Class Honours (Upper Division)
 
 ## Contact
 
-- **Email:** [your.email@example.com](mailto:eodenyire@gmail.com.com)
-- **LinkedIn:** [linkedin.com/in/emmanuel-odenyire](https://www.linkedin.com/in/emmanuelodenyire)
-- **GitHub:** [github.com/your-username](https://github.com/eodenyire)
+- **Email:** [eodenyire@gmail.com](mailto:eodenyire@gmail.com.com)
+- **LinkedIn:** [linkedin.com/in/emmanuelodenyire](https://www.linkedin.com/in/emmanuelodenyire)
+- **GitHub:** [github.com/eodenyire](https://github.com/eodenyire)
 - **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
 Feel free to explore my repositories and connect with me!
