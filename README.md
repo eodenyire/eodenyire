@@ -22,7 +22,7 @@ Nairobi, Kenya · Hybrid
 - Performing advanced SQL queries and data modeling for strategic decision-making.
 - Orchestrating automated data workflows using bash scripting.
 
-#### Senior Data Analytics Engineer
+#### Senior Data Analytics Engineer (Probation)
 **Safaricom PLC**  
 *April 2022 - July 2022*  
 Nairobi, Kenya · Hybrid
@@ -41,9 +41,64 @@ Nairobi County, Kenya · Remote
 - Completed courses on Big Data Core Concepts, T-SQL, Python for Data Science, and advanced data science techniques.
 - Developed a predictive model for the "Credit Card Defaulter Hackathon" on Kaggle.
 - Working on a capstone project to solve a business problem within my department.
-  
-### Education
 
+### Kenya Development Corporation Limited
+**Technical Support Engineer**  
+*Jun 2021 - March 2022*  
+- Provided technical support and troubleshooting for various IT systems and applications.
+- Assisted in the implementation and maintenance of technology solutions.
+- Collaborated with teams to resolve technical issues and improve system performance.
+
+### Industrial and Commercial Development Corporation
+**Technical Support Engineer**  
+*Feb 2021 - Jun 2021*  
+- Delivered technical support services to internal and external stakeholders.
+- Managed IT infrastructure and ensured system reliability.
+- Coordinated with vendors and service providers for hardware and software issues.
+  
+### Mucho Mangoes Limited
+**Head of ICT and ICT Instructor**  
+*Feb 2017 - Nov 2020*  
+- Managed the 21st Century Digital Century Program to train and teach digital skills to rural farmers in Taveta sub-county.
+- Oversaw ICT operations, including infrastructure setup, maintenance, and support.
+- Developed and delivered training sessions on digital skills and technology use.
+
+### Kenya National Bureau of Statistics
+**Content Supervisor for KPHC**  
+*Aug 2019 - Sep 2019*  
+- Supervised content collection and data entry for the Kenya Population and Housing Census (KPHC).
+- Ensured accurate and timely data collection and reporting.
+- Coordinated with field teams and provided support for data management.
+    
+### Sote Hub
+**Technical Support Engineer**  
+*Jun 2015 - Dec 2016*  
+- Offered technical support for ICT systems and services.
+- Assisted in the development and maintenance of IT infrastructure.
+- Provided training and support to users on various technology tools and systems.
+
+### Huawei Technologies Kenya Limited
+**IP Networks Intern (Telecom Seeds for the Future Program)**  
+*Feb 2015 - May 2015*  
+- Gained hands-on experience in IP network technologies and operations.
+- Assisted in network configurations, monitoring, and troubleshooting.
+- Contributed to various networking projects and supported team activities.
+  
+### Taita Taveta County
+**IT Intern**  
+*Jan 2014 - Jun 2014*  
+- Supported the IT department with technical issues and system maintenance.
+- Assisted in troubleshooting and resolving hardware and software problems.
+- Provided support for IT projects and initiatives within the county government.
+
+### Independent Electoral and Boundaries Commission
+**ICT Voter Registration Assistant**  
+*Feb 2013 - Jun 2013*  
+- Assisted in the ICT support for voter registration activities.
+- Provided technical assistance during the registration process.
+- Supported data entry and management tasks.
+
+### Education
 ### The Cooperative University of Kenya
 **Masters of Science in Data Science**  
 *June 2024 - Dec 2025*  
