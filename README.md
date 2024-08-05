@@ -2,7 +2,7 @@
 
 ## Senior Data Analytics Engineer @ Safaricom PLC | AWS SME | 8X AWS Certified
 
-![Profile Picture](https://via.placeholder.com/150) <!-- Replace with your actual profile picture URL -->
+![Profile Picture]([https://via.placeholder.com/150](https://cin.comptia.org/data/avatars/o/2/2828.jpg?1649452113)) <!-- Replace with your actual profile picture URL -->
 
 ### About Me
 
@@ -196,23 +196,4 @@ Grade: Second Class Honours (Upper Division)
 
 Feel free to explore my repositories and connect with me!
 
-- **Bachelor of Science in Informatics**  
-  Moi University
-
-- **Payments Course (Ongoing)**  
-  Visa University
-
-### Contact
-
-- **LinkedIn:** [Emmanuel Odenyire Anyira](https://www.linkedin.com/in/emmanuel-odenyire-anyira)  
-- **Location:** Nairobi County, Kenya
-
-### Follow Me
-
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername) <!-- Replace with your actual GitHub profile URL -->
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle) <!-- Replace with your actual Twitter handle -->
-
----
-
-Feel free to reach out if you have any questions or would like to discuss data science, analytics, or technology!
 
