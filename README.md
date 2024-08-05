@@ -55,18 +55,6 @@ Grade: In progress
   - Fundamentals of Data Engineering
   - Statistics for Data Science
   - Cooperative Philosophy
-  - Data Warehousing
-  - Machine Learning
-  - Statistical Programming
-  - Ethical and Legal Issues for Data Scientists
-  - Research Methods
-  - Data Visualization
-  - Machine Learning at Scale
-  - Big Data Analytics
-  - Natural Language Processing with Deep Learning
-  - Statistical Methods for Discrete Response, Time Series, and Panel Data
-  - Seminar
-  - Project
 
 ### Holberton School
 **ALX Software Engineering**  
@@ -141,24 +129,21 @@ Grade: Second Class Honours (Upper Division)
   - Network Design and Administration
   - Data Mining and Advanced Databases
   - Software Engineering
-  - ERP
   - Artificial Intelligence
-  - Distributed Systems
+  - Distributed Systems, Operating Systems
   - Information Systems Audit, ICT Security
-  - Operating Systems
   - Structured and Object-Oriented Programming
   - Computer Architecture and Organization
-  - E-business and e-Commerce
+  - E-business and e-Commerce, ERP
   - Business Systems Modelling and Applications Programming
-  - Human Computer Interaction
-  - Decision Support and Expert Systems
+  - Human Computer Interaction, Decision Support and Expert Systems
   - Data Structures and Algorithms
 
 ## Skills
 
 - **Programming Languages:** Python, C, R, SQL, NodeJS, JavaScript, Ruby
 - **Data Wrangling & Analysis:** Pandas, dplyr, tidyr, ggplot2
-- **Machine Learning:** Regression algorithms, classification metrics, - **Machine Learning:** Predictive Analytics, Model Development
+- **Machine Learning:** Regression algorithms, classification metrics, Predictive Analytics, Model Development
 - **Data Engineering:** Python, OOP, Apache Spark, Apache Nifi, Informatica PowerCenter, Hadoop, SQL, R, Scala
 - **Web Scraping:** Python techniques, R
 - **Containerization:** Docker, Kubernetes
@@ -172,7 +157,7 @@ Grade: Second Class Honours (Upper Division)
 - **Projects:**
   - **AirBnB Clone V2:** Backend development, SQL, MySQL, ORM.
   - **Credit Card Defaulter Hackathon:** Model development for predicting credit card defaults.
-  - **Device Insurance BI Reports:** ETL documentation using Apache NiFi.
+  - **Printf:** ETL documentation using Apache NiFi.
   - **SSH and Web Stack Debugging:** Configurations and debugging.
 
 - **Certifications:**
@@ -181,9 +166,9 @@ Grade: Second Class Honours (Upper Division)
 
 ## Contact
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/emmanuel-odenyire](https://www.linkedin.com/in/emmanuel-odenyire)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **Email:** [your.email@example.com](mailto:eodenyire@gmail.com.com)
+- **LinkedIn:** [linkedin.com/in/emmanuel-odenyire](https://www.linkedin.com/in/emmanuelodenyire)
+- **GitHub:** [github.com/your-username](https://github.com/eodenyire)
 - **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
 Feel free to explore my repositories and connect with me!
