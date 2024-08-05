@@ -2,8 +2,6 @@
 
 ## Senior Data Analytics Engineer @ Safaricom PLC | AWS SME | 8X AWS Certified
 
-![Profile Picture]([https://cin.comptia.org/data/avatars/o/2/2828.jpg?1649452113])) <!-- Replace with your actual profile picture URL -->
-
 ### About Me
 
 I am a Senior Data Analytics Engineer at Safaricom PLC, the leading telecommunications company in Kenya. My expertise lies in building and maintaining data collection systems and processing pipelines using technologies such as Apache Nifi and Informatica Powercenter. I specialize in developing ETL processes to transform raw data into actionable insights and have implemented machine learning algorithms for predictive analytics using Python, R, Scala, and Spark.
