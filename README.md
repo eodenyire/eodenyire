@@ -2,7 +2,7 @@
 
 ## Senior Data Analytics Engineer @ Safaricom PLC | AWS SME | 8X AWS Certified
 
-![Profile Picture]([https://via.placeholder.com/150](https://cin.comptia.org/data/avatars/o/2/2828.jpg?1649452113)) <!-- Replace with your actual profile picture URL -->
+![Profile Picture]([https://cin.comptia.org/data/avatars/o/2/2828.jpg?1649452113])) <!-- Replace with your actual profile picture URL -->
 
 ### About Me
 
