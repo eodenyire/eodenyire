@@ -41,15 +41,7 @@ Nairobi County, Kenya · Remote
 - Completed courses on Big Data Core Concepts, T-SQL, Python for Data Science, and advanced data science techniques.
 - Developed a predictive model for the "Credit Card Defaulter Hackathon" on Kaggle.
 - Working on a capstone project to solve a business problem within my department.
-
-### Skills
-
-- **Data Engineering:** Apache Nifi, Informatica PowerCenter, Hadoop, Spark, SQL, Python, R, Scala
-- **Cloud Platforms:** AWS, Azure
-- **Databases:** Oracle, MongoDB, Cassandra, Neo4J, MariaDB, PostgreSQL
-- **Data Visualization:** Tableau, Qlik Sense
-- **Machine Learning:** Predictive Analytics, Model Development
-
+  
 ### Education
 
 ### The Cooperative University of Kenya
@@ -152,8 +144,7 @@ Grade: Second Class Honours (Upper Division)
   - ERP
   - Artificial Intelligence
   - Distributed Systems
-  - Information Systems Audit
-  - ICT Security
+  - Information Systems Audit, ICT Security
   - Operating Systems
   - Structured and Object-Oriented Programming
   - Computer Architecture and Organization
@@ -165,13 +156,16 @@ Grade: Second Class Honours (Upper Division)
 
 ## Skills
 
-- **Programming Languages:** Python, C, R, SQL, Excel
+- **Programming Languages:** Python, C, R, SQL, NodeJS, JavaScript, Ruby
 - **Data Wrangling & Analysis:** Pandas, dplyr, tidyr, ggplot2
-- **Machine Learning:** Regression algorithms, classification metrics
-- **Data Engineering:** Python, OOP, Apache Spark
-- **Web Scraping:** Python techniques
-- **Containerization:** Docker
+- **Machine Learning:** Regression algorithms, classification metrics, - **Machine Learning:** Predictive Analytics, Model Development
+- **Data Engineering:** Python, OOP, Apache Spark, Apache Nifi, Informatica PowerCenter, Hadoop, SQL, R, Scala
+- **Web Scraping:** Python techniques, R
+- **Containerization:** Docker, Kubernetes
 - **Technical Writing & Networking**
+- **Cloud Platforms:** AWS, Azure, Google Cloud, Alibaba Cloud, Oracle Cloud, IBM Cloud
+- **Databases:** Oracle, MongoDB, Cassandra, Neo4J, MariaDB, PostgreSQL, MySQL, SQL Server
+- **Data Visualization:** Tableau, Qlik Sense, Power BI, QlikView, Google Sheets, MatPlotlib
 
 ## Projects and Certifications
 
