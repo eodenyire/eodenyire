@@ -224,7 +224,7 @@ Grade: Second Class Honours (Upper Division)
 - **Email:** [eodenyire@gmail.com](mailto:eodenyire@gmail.com.com)
 - **LinkedIn:** [linkedin.com/in/emmanuelodenyire](https://www.linkedin.com/in/emmanuelodenyire)
 - **GitHub:** [github.com/eodenyire](https://github.com/eodenyire)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Portfolio:** [github.com/eodenyire](https://github.com/eodenyire)
 
 Feel free to explore my repositories and connect with me!
 
