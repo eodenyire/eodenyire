@@ -211,9 +211,7 @@ Grade: Second Class Honours (Upper Division)
 
 - **Projects:**
   - **AirBnB Clone V2:** Backend development, SQL, MySQL, ORM.
-  - **Credit Card Defaulter Hackathon:** Model development for predicting credit card defaults.
-  - **Printf:** ETL documentation using Apache NiFi.
-  - **SSH and Web Stack Debugging:** Configurations and debugging.
+
 
 - **Certifications:**
   - AWS Machine Learning Foundations
