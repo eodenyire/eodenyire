@@ -14,7 +14,7 @@ Experienced Data Engineer specializing in ETL, big data processing, and cloud-ba
 
 ## Projects  
 - **Simple Shell** – A UNIX command interpreter written in C that executes user commands, manages the environment, and supports built-in functions like exit and env 
-- **Printf** – A custom implementation of the C standard printf function, handling various format specifiers to produce formatted output while adhering to coding best practices.  
+- **Printf** - This is a custom implementation of the C standard `printf` function. Repository Link: [Printf GitHub Repository](https://github.com/eodenyire/printf)
 
 📩 **Contact**  
 - **Email**: eodenyire@gmail.com  
