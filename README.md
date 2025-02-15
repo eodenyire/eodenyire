@@ -13,7 +13,7 @@ Experienced Data Engineer specializing in ETL, big data processing, and cloud-ba
 - **Visualization**: Tableau, Power BI, Qlik Sense  
 
 ## Projects  
-- **Simple Shell** – Backend development with SQLAlchemy  
+- **Simple Shell** – A UNIX command interpreter written in C that executes user commands, manages the environment, and supports built-in functions like exit and env 
 - **Printf** – Machine learning model for risk analysis  
 
 📩 **Contact**  
