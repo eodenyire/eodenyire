@@ -1,6 +1,6 @@
 # Emmanuel Odenyire Anyira  
 
-**Senior Data Analytics Engineer @ Safaricom PLC | AWS SME | 8X AWS Certified**  
+**Senior Data Analytics Engineer @ Safaricom PLC | FINANCIAL ENGINEER | ALX CERTIFIED SOFTWARE ENGINEER**  
 
 ## About Me  
 Experienced Data Engineer specializing in ETL, big data processing, and cloud-based solutions. Passionate about transforming raw data into actionable insights using tools like Apache NiFi, Spark, SQL, and Python.  
