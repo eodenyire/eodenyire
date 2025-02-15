@@ -13,8 +13,8 @@ Experienced Data Engineer specializing in ETL, big data processing, and cloud-ba
 - **Visualization**: Tableau, Power BI, Qlik Sense  
 
 ## Projects  
-- **AirBnB Clone V2** – Backend development with SQLAlchemy  
-- **Credit Card Defaulter Prediction** – Machine learning model for risk analysis  
+- **Simple Shell** – Backend development with SQLAlchemy  
+- **Printf** – Machine learning model for risk analysis  
 
 📩 **Contact**  
 - **Email**: eodenyire@gmail.com  
