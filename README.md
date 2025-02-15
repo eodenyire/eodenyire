@@ -14,7 +14,7 @@ Experienced Data Engineer specializing in ETL, big data processing, and cloud-ba
 
 ## Projects  
 - **Simple Shell** – A UNIX command interpreter written in C that executes user commands, manages the environment, and supports built-in functions like exit and env 
-- **Printf** – Machine learning model for risk analysis  
+- **Printf** – A custom implementation of the C standard printf function, handling various format specifiers to produce formatted output while adhering to coding best practices.  
 
 📩 **Contact**  
 - **Email**: eodenyire@gmail.com  
